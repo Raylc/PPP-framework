@@ -1,0 +1,40 @@
+---
+title: "Expanding the scope of experimental archaeology using the Perception-Process-Product analytical framework"
+author: 
+- Cheng Liu^[Department of Anthropology, Emory University, Atlanta, GA, USA; raylc1996@outlook.com]
+abstract: "This paper presents the Perception-Process-Product analytical framework to expand the scope of experimental archaeology. \\par \\textbf{Keywords:} Experimental archaeology; Ethological analysis; Ethnographical analysis; Collaborative knowledge production"
+date: "`r Sys.Date()`"
+fontsize: 11pt
+output: bookdown::pdf_document2
+header-includes:
+   - \usepackage{textcomp}
+   - \usepackage{utopia}
+   - \usepackage{lineno}
+   - \linenumbers
+   - \usepackage{float}
+   - \floatplacement{figure}{H}
+   - \usepackage{caption}
+   - \captionsetup[figure]{font=scriptsize}
+   - \captionsetup[table]{font=scriptsize}
+linestretch: 1.5
+link-citations: yes
+linkcolor: blue
+bibliography: bibliography.bib
+csl: apa.csl
+---
+
+# Introduction
+
+This paper presents the Perception-Process-Product analytical framework to expand the scope of experimental archaeology (**Figure** \@ref(fig:concept)). Traditionally, experimental archaeology focuses on generating knowledge regarding the causal mechanism at behavioral level to explain the variation of material culture [@eren2016]. In the past decades, actualistical experiments becomes more common [@liu2022].
+
+```{r concept, echo=FALSE, out.width = '80%', fig.align='center', fig.cap="The conceptual diagram of the Perception-Process-Product analytical framework."}
+knitr::include_graphics(here::here("figure/Fig1.jpg"))
+```
+
+Ethological approaches has been first systematically developed and applied in the archaeological research by Haidle [@haidle2009; @haidle2010; @lombard2012], essentially representing an abstracting process of a series of behavioral sequences achieving a similar goal. This approach is innovative yet limited by the curse of expertise [@hinds1999]. Novices has a different sets of perception on the causal structure of how certain behaviors will modify the raw materials, leading to over-imitation. Here we used the ethogram, or the action grammar, developed by [@stout2021] as an example. Other coding scheme also exist such as [@mahaney2014].
+
+# Many places, many voices
+
+The PPP analytical framework inherently advocate an collaborative mode of knowledge production [@ranhorn2020].
+
+# References
