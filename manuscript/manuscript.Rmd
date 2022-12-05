@@ -25,15 +25,25 @@ csl: apa.csl
 
 # Introduction
 
-This paper presents the Perception-Process-Product analytical framework to expand the scope of experimental archaeology (**Figure** \@ref(fig:concept)). Traditionally, experimental archaeology focuses on generating knowledge regarding the causal mechanism at behavioral level to explain the variation of material culture [@eren2016]. In the past decades, actualistical experiments becomes more common [@liu2022].
+This paper presents the Perception-Process-Product analytical framework to expand the scope of experimental archaeology (**Figure** \@ref(fig:concept)). minimal engineering using raw materials available in the past to demonstrate it is possible to do something.
+
+This part talks about the goal and toolbox of PPP framework, which is understanding the multi-level understanding of variation. the first two p captures different level of variation
+
+Traditionally, experimental archaeology focuses on generating knowledge regarding the causal mechanism at behavioral level to explain the variation of material culture [@eren2016]. In the past decades, actualistical experiments becomes more common [@liu2022].
 
 ```{r concept, echo=FALSE, out.width = '80%', fig.align='center', fig.cap="The conceptual diagram of the Perception-Process-Product analytical framework."}
 knitr::include_graphics(here::here("figure/Fig1.jpg"))
 ```
 
-Ethological approaches has been first systematically developed and applied in the archaeological research by Haidle [@haidle2009; @haidle2010; @lombard2012], essentially representing an abstracting process of a series of behavioral sequences achieving a similar goal. This approach is innovative yet limited by the curse of expertise [@hinds1999]. Novices has a different sets of perception on the causal structure of how certain behaviors will modify the raw materials, leading to over-imitation. Here we used the ethogram, or the action grammar, developed by [@stout2021] as an example. Other coding scheme also exist such as [@mahaney2014].
+Ethological approaches has been first systematically developed and applied in the archaeological research by Haidle [@haidle2009; @haidle2010; @lombard2012], known as cognigram, essentially representing an abstracting process of a series of behavioral sequences achieving a similar goal. This approach is a power and elegant yet limited by the curse of expertise [@hinds1999]. Like chaine operatoire, it cannot handles variation very well. To some extent it describes the minimal steps to achieve a goal from the perspective of reverse engineering and assume clear causal thinking between each steps. Novices has a different sets of perception on the causal structure of how certain behaviors will modify the raw materials, leading to over-imitation. Here we used the ethogram, or the action grammar, developed by [@stout2021] as an example. Other coding scheme also exist such as [@mahaney2014].
+
+# The curse of knowledge
+
+Variation: why novice is important?
 
 # Many places, many voices
+
+Variation: why experts or collaborative knowledge from different regions matters?
 
 The PPP analytical framework inherently advocate an collaborative mode of knowledge production [@ranhorn2020].
 
