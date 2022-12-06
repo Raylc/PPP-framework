@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  3 DEC 2022 09:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  6 DEC 2022 07:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -627,37 +627,38 @@ LaTeX Font Info:    Font shape `OMS/put/m/n' in size <10> not available
 \tf@toc=\write3
 \openout3 = `manuscript.toc'.
 
-<C:/FilesVC/PPP-framework/figure/Fig1.jpg, id=11, 2457.18pt x 1413.28pt>
-File: C:/FilesVC/PPP-framework/figure/Fig1.jpg Graphic file (type jpg)
-<use C:/FilesVC/PPP-framework/figure/Fig1.jpg>
-Package pdftex.def Info: C:/FilesVC/PPP-framework/figure/Fig1.jpg  used on inpu
-t line 138.
-(pdftex.def)             Requested size: 375.79735pt x 216.14488pt.
 [1
 
 {c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 159.
+<C:/FilesVC/PPP-framework/figure/Fig1.jpg, id=37, 2457.18pt x 1413.28pt>
+File: C:/FilesVC/PPP-framework/figure/Fig1.jpg Graphic file (type jpg)
+<use C:/FilesVC/PPP-framework/figure/Fig1.jpg>
+Package pdftex.def Info: C:/FilesVC/PPP-framework/figure/Fig1.jpg  used on inpu
+t line 144.
+(pdftex.def)             Requested size: 375.79735pt x 216.14488pt.
 [2 <c:/FilesVC/PPP-framework/figure/Fig1.jpg>]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 177.
+[3]
 
 Package caption Warning: Unused \captionsetup[table] on input line 98.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 220.
+[4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 220.
 (./manuscript.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 187.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 220.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 220.
  ) 
 Here is how much of TeX's memory you used:
- 15271 strings out of 492162
- 224794 string characters out of 6129062
- 355638 words of memory out of 5000000
- 19239 multiletter control sequences out of 15000+600000
- 120442 words of font info for 132 fonts, out of 8000000 for 9000
+ 15320 strings out of 492162
+ 225335 string characters out of 6129062
+ 358741 words of memory out of 5000000
+ 19244 multiletter control sequences out of 15000+600000
+ 124495 words of font info for 155 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,42p,927b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,42p,1180b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2019/texm
 f-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2019/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfo
@@ -666,10 +667,10 @@ y8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:/texlive/
 2019/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2019/texmf-dist
 /fonts/type1/adobe/utopia/putr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/ad
 obe/utopia/putri8a.pfb>
-Output written on manuscript.pdf (3 pages, 387021 bytes).
+Output written on manuscript.pdf (4 pages, 394038 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
- 20510 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 148 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 20526 words of extra memory for PDF output out of 20736 (max. 10000000)
 

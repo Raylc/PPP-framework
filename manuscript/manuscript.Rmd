@@ -27,9 +27,11 @@ csl: apa.csl
 
 This paper presents the Perception-Process-Product analytical framework to expand the scope of experimental archaeology (**Figure** \@ref(fig:concept)). minimal engineering using raw materials available in the past to demonstrate it is possible to do something.
 
-This part talks about the goal and toolbox of PPP framework, which is understanding the multi-level understanding of variation. the first two p captures different level of variation
+This part talks about the goal and toolbox of PPP framework, which is understanding the multi-level understanding of variation. the first two p captures different level of variation: EQUIFINALITY [@chami2015].
 
-Traditionally, experimental archaeology focuses on generating knowledge regarding the causal mechanism at behavioral level to explain the variation of material culture [@eren2016]. In the past decades, actualistical experiments becomes more common [@liu2022].
+Is RCT the golden standard of knowledge [@cartwright2007]
+
+Traditionally, experimental archaeology focuses on generating knowledge regarding the causal mechanism at behavioral level to explain the variation of material culture [@eren2016]. In the past decades, actualistical experiments becomes more common [@liu2022]. new toolkit such as BORIS were introduced [@friard2016]
 
 ```{r concept, echo=FALSE, out.width = '80%', fig.align='center', fig.cap="The conceptual diagram of the Perception-Process-Product analytical framework."}
 knitr::include_graphics(here::here("figure/Fig1.jpg"))
@@ -45,6 +47,10 @@ Variation: why novice is important?
 
 Variation: why experts or collaborative knowledge from different regions matters?
 
-The PPP analytical framework inherently advocate an collaborative mode of knowledge production [@ranhorn2020].
+The PPP analytical framework inherently adopts an collaborative mode of knowledge production, which has been advocated in experimental studies [@ranhorn2020] and museum collection studies [@timbrell2022].
+
+# Open science beyond reproducibility
+
+The last step is uploading the data to a open-access repository [@marwick2017]. The building of manufacture can cost.
 
 # References
