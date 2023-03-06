@@ -25,7 +25,7 @@ csl: apa.csl
 
 # Introduction
 
-This paper presents the Perception-Process-Product analytical framework to expand the scope of experimental archaeology (**Figure** \@ref(fig:concept)). minimal engineering using raw materials available in the past to demonstrate it is possible to do something.
+This paper presents the Perception-Process-Product analytical framework to expand the scope of experimental archaeology (**Figure** \@ref(fig:concept)). It aims to expose the behavioral variability at multiple levels and build the connections. minimal engineering using raw materials available in the past to demonstrate it is possible to do something.
 
 This part talks about the goal and toolbox of PPP framework, which is understanding the multi-level understanding of variation. the first two p captures different level of variation: EQUIFINALITY [@chami2015].
 
@@ -41,7 +41,7 @@ Ethological approaches has been first systematically developed and applied in th
 
 # The curse of knowledge
 
-Variation: why novice is important?
+Variation: why novice is important? [@hinds1999]
 
 # Many places, many voices
 
@@ -51,6 +51,6 @@ The PPP analytical framework inherently adopts an collaborative mode of knowledg
 
 # Open science beyond reproducibility
 
-The last step is uploading the data to a open-access repository [@marwick2017]. The building of manufacture can cost.
+The last step is uploading the data to a open-access repository [@marwick2017]. The building of manufacture can cost [@simon2015; @gilmore2015].
 
 # References
