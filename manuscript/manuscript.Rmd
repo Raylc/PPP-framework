@@ -2,7 +2,7 @@
 title: "Expanding the scope of experimental archaeology using the Perception-Process-Product analytical framework"
 author: 
 - Cheng Liu^[Department of Anthropology, Emory University, Atlanta, GA, USA; raylc1996@outlook.com]
-abstract: "This paper presents the Perception-Process-Product analytical framework to expand the scope of experimental archaeology. \\par \\textbf{Keywords:} Experimental archaeology; Ethological analysis; Ethnographical analysis; Collaborative knowledge production"
+abstract: "This paper presents the Perception-Process-Product analytical framework that aims to expand the scope of experimental archaeology . \\par \\textbf{Keywords:} Experimental archaeology; Ethological analysis; Ethnographical analysis; Collaborative knowledge production"
 date: "`r Sys.Date()`"
 fontsize: 11pt
 output: bookdown::pdf_document2
@@ -25,9 +25,9 @@ csl: apa.csl
 
 # Introduction
 
-This paper presents the Perception-Process-Product analytical framework to expand the scope of experimental archaeology (**Figure** \@ref(fig:concept)). It aims to expose the behavioral variability at multiple levels and build the connections. minimal engineering using raw materials available in the past to demonstrate it is possible to do something.
+This paper presents the Perception-Process-Product analytical framework to expand the scope of experimental archaeology that mainly focuses on the product level (**Figure** \@ref(fig:concept)). It aims to expose the behavioral variability at multiple levels and build the connections. minimal engineering using raw materials available in the past to demonstrate it is possible to do something.
 
-This part talks about the goal and toolbox of PPP framework, which is understanding the multi-level understanding of variation. the first two p captures different level of variation: EQUIFINALITY [@chami2015].
+This part talks about the goal and toolbox of PPP framework, which is understanding the multi-level understanding of variation. the first two p captures different level of variation: EQUIFINALITY [@chami2015]. The process level can be dismantled into two parts: 1)the cognitive and physical demands of certain tool-making behavior; 2) the ethological analysis.
 
 Is RCT the golden standard of knowledge [@cartwright2007]
 
