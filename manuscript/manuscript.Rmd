@@ -1,8 +1,8 @@
 ---
-title: "Expanding the scope of experimental archaeology using the Perception-Process-Product analytical framework"
+title: "Expanding the scope of experimental archaeology using the Perception-Process-Product conceptual framework"
 author: 
 - Cheng Liu^[Department of Anthropology, Emory University, Atlanta, GA, USA; raylc1996@outlook.com]
-abstract: "This paper presents the Perception-Process-Product analytical framework that aims to expand the scope of experimental archaeology . \\par \\textbf{Keywords:} Experimental archaeology; Ethological analysis; Ethnographical analysis; Collaborative knowledge production"
+abstract: "This paper presents the Perception-Process-Product analytical framework that aims to expand the scope of experimental archaeology . \\par \\textbf{Keywords:} Experimental archaeology; Ethological analysis; Ethnographical analysis; The curse of knowledge; Collaborative knowledge production"
 date: "`r Sys.Date()`"
 fontsize: 11pt
 output: bookdown::pdf_document2
@@ -25,23 +25,25 @@ csl: apa.csl
 
 # Introduction
 
-This paper presents the Perception-Process-Product analytical framework to expand the scope of experimental archaeology that mainly focuses on the product level (**Figure** \@ref(fig:concept)). It aims to expose the behavioral variability at multiple levels and build the connections. minimal engineering using raw materials available in the past to demonstrate it is possible to do something.
+This paper presents the Perception-Process-Product (hereinafter referred to as "Triple P") conceptual framework to expand the scope of experimental archaeology, which tends to centers around the reverse engineering of a past technology in a minimal or least-effort manner while ignoring the rich contextual information it affords. The Triple P framework aims to amplify the expression of variability in experimental replicas (product) and their associated behavioral channels (process) as well as sensory experiences (perception) and better identify the complex interacting relationships across these three levels of variations (**Figure** \@ref(fig:concept)). To accomplish these two objectives, we advocate the following four measures: 1) normalizing the ethological and ethnographic data collection in experimental projects ; 2) encouraging the involvements of avocational as well as novice participants; 3) boosting the collaboration across labs in a global scale; 4) building an open-access repository for data reuse. It is no doubt that strategies of data collection and analysis of a given experimental project should be primarily derived from the research question, which can be legitimately narrow in scope, but the awareness of the rich toolkit available can sometimes inspires researchers to ask questions that are bold and transformative [@schmidt2020]. Here I will mainly leverage the extensive corpus in experimental designs and inferences revolving around stone artifacts to demonstrate the necessity and potentials of this framework.
 
-This part talks about the goal and toolbox of PPP framework, which is understanding the multi-level understanding of variation. the first two p captures different level of variation: EQUIFINALITY [@chami2015]. The process level can be dismantled into two parts: 1)the cognitive and physical demands of certain tool-making behavior; 2) the ethological analysis.
+Traditionally, experimental archaeology focuses on generating knowledge regarding the causal mechanism at behavioral level to explain the variation of material culture [@eren2016; @lin2018; @rezek2020]. In the past decades, actualistic experiments becomes more common [@liu2022]. Is RCT the golden standard of knowledge [@cartwright2007]
 
-Is RCT the golden standard of knowledge [@cartwright2007]
+the first two p captures different level of variation: EQUIFINALITY [@chami2015]. The process level can be dismantled into two parts: 1)the cognitive [@stout2015] and physical demands [@key2018] of certain tool-making behavior; 2) the ethological analysis.
 
-Traditionally, experimental archaeology focuses on generating knowledge regarding the causal mechanism at behavioral level to explain the variation of material culture [@eren2016]. In the past decades, actualistical experiments becomes more common [@liu2022]. new toolkit such as BORIS were introduced [@friard2016]
+# The ethology and ethnography of stone toolmaking
+
+new toolkit such as BORIS were introduced [@friard2016]
 
 ```{r concept, echo=FALSE, out.width = '80%', fig.align='center', fig.cap="The conceptual diagram of the Perception-Process-Product analytical framework."}
 knitr::include_graphics(here::here("figure/Fig1.jpg"))
 ```
 
-Ethological approaches has been first systematically developed and applied in the archaeological research by Haidle [@haidle2009; @haidle2010; @lombard2012], known as cognigram, essentially representing an abstracting process of a series of behavioral sequences achieving a similar goal. This approach is a power and elegant yet limited by the curse of expertise [@hinds1999]. Like chaine operatoire, it cannot handles variation very well. To some extent it describes the minimal steps to achieve a goal from the perspective of reverse engineering and assume clear causal thinking between each steps. Novices has a different sets of perception on the causal structure of how certain behaviors will modify the raw materials, leading to over-imitation. Here we used the ethogram, or the action grammar, developed by [@stout2021] as an example. Other coding scheme also exist such as [@mahaney2014].
+Ethological approaches has been first systematically developed and applied in the archaeological research by Haidle [@haidleHowThinkSimple2009; @haidle2010; @lombard2012], known as cognigram, essentially representing an abstracting process of a series of behavioral sequences achieving a similar goal. This approach is a power and elegant yet limited by the curse of expertise [@hinds1999]. Like chaine operatoire, it cannot handles variation very well. To some extent it describes the minimal steps to achieve a goal from the perspective of reverse engineering and assume clear causal thinking between each steps. Novices has a different sets of perception on the causal structure of how certain behaviors will modify the raw materials, leading to over-imitation. Here we used the ethogram, or the action grammar, developed by [@stout2021] as an example. Other coding scheme also exist such as [@mahaney2014].
 
 # The curse of knowledge
 
-Variation: why novice is important? [@hinds1999]
+Variation: why novice is important? [@hinds1999]. Experimental archaeology as a scientific method is rooted in the individualistic reverse engineering in the 19th century instead of inter-generation transmission of knapping knowledge that spans several million years [@reevesflores2010; @coles1979].
 
 # Many places, many voices
 
