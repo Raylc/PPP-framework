@@ -23,11 +23,13 @@ bibliography: bibliography.bib
 csl: apa.csl
 ---
 
-# Introduction
+\vspace{12pt}
 
-This paper presents the Perception-Process-Product (hereinafter referred to as "Triple P") conceptual framework to expand the scope of experimental archaeology, which tends to center around the reverse engineering of a past technology in a minimal or least-effort manner while ignoring the rich contextual information it affords. The Triple P framework aims to **a)** amplify the expression of variability in experimental replicas (product) and their associated behavioral channels (process) as well as sensory experiences (perception) and **b)** better identify the complex interacting relationships across these three levels of variations. To accomplish these two objectives, we advocate the following four measures as integral components of the Triple P framework: 1) normalizing the ethological and ethnographic data collection in experimental projects ; 2) encouraging the involvements of avocational as well as novice participants; 3) boosting the collaboration across labs in a global scale; 4) building an open-access repository for data reuse. It is no doubt that strategies of data collection and analysis of a given experimental project should be primarily derived from the research question, which can be legitimately narrow in scope, but the awareness of the rich toolkit available can sometimes inspire researchers to ask questions that are bold and transformative [@schmidt2020]. Here I will mainly leverage the extensive corpus in experimental designs and inferences revolving around stone artifacts to demonstrate the necessity and potentials of this framework.
+This paper presents the Perception-Process-Product (hereinafter referred to as "Triple P") conceptual framework to expand the scope of experimental archaeology, which tends to center around the reverse engineering of a past technology in a minimal or least-effort manner while ignoring the rich contextual information it affords. The Triple P framework aims to **a)** amplify the expression of variability in experimental replicas (product) and their associated behavioral channels (process) as well as sensory experiences (perception) and **b)** better identify the complex interacting relationships across these three levels of variations. To accomplish these two objectives, we advocate the following four measures as integral components of the Triple P framework: 1) normalizing the ethological and ethnographic data collection in experimental projects ; 2) encouraging the involvements of avocational as well as novice participants; 3) boosting the collaboration across labs in a global scale; 4) building an open-access repository for data reuse. It is no doubt that strategies of data collection and analysis of a given experimental project should be primarily derived from the research question, which can be legitimately narrow in scope, but the awareness of the rich toolkit available can sometimes inspire researchers to ask questions that are bold and transformative [@schmidt2020]. Here I will mainly leverage the extensive corpus in experimental designs and inferences revolving around stone artifacts to clarify its meaning and demonstrate the necessity and potentials of this framework.
 
-Traditionally, experimental archaeology focuses on generating knowledge regarding the causal mechanism at behavioral level to explain the variation of material culture [@eren2016; @lin2018; @rezek2020]. The controlled experiments conducted on stone artifacts [@li2022], partcularly those regarding the fracture mechanics [@cotterell1992], provide some foundational and irreplaceable insights regarding our understanding of the role of lithic technology in prehistory, and unequivocally this line of inquiry should be celebrated and promoted to carry on. Nonetheless, it is oftentimes challenging to directly translate these experimental results into implications of human behaviors due to the messiness of the latter. In the past decades, actualistic experiments becomes more common [@liu2022]. Is RCT the golden standard of knowledge [@cartwright2007]
+# What good is actualistic experiment?
+
+Traditionally, experimental archaeology focuses on generating knowledge regarding the causal mechanism at behavioral level to explain the variation of material culture [@eren2016; @lin2018; @rezek2020; @outram2008]. The controlled experiments conducted on stone artifacts [@li2022], partcularly those regarding the fracture mechanics [@cotterell1992], provide some foundational and irreplaceable insights regarding our understanding of the role of lithic technology in prehistory, and unequivocally this line of inquiry should be celebrated and promoted to carry on. Nonetheless, it is oftentimes challenging to directly translate these experimental results into implications of human behaviors due to the messiness of the latter. In the past decades, actualistic experiments becomes more common [@liu2022]. Is RCT the golden standard of knowledge [@cartwright2007]
 
 the first two p captures different level of variation: EQUIFINALITY [@chami2015]. The process level can be dismantled into two parts: 1)the cognitive [@stout2015] and physical demands [@key2018] of certain tool-making behavior; 2) the ethological analysis.
 
@@ -35,7 +37,7 @@ One of the major concerns of experimental archaeology design, as in all empirica
 
 Experimental archaeology is based on the concept of analogy (i.e., the past is at least partially similar to the present in some aspects). It is acknowledged that the validity of this type of analogical inference has long been a subject of debate in archaeology (Wylie, 1985), and a comprehensive review of it is beyond the scope of this essay. For instance, presumably in the paleolithic period the development of stone knapping skills mostly happened during childhood and these children grew up in an environment surrounded by habitual stone tool users and makers. In this case, what can knapping teaching experiments involving modern adults who have zero exposure to stone tools inform us about the past learning behavior? It is important to clarify that no experimental project ever intends or claims to provide the perfect reconstruction of the past but rather aims at identifying variables relevant to the question of interest (Stout & Khreisheh, 2015), which can be often ignored through pure deductive reasoning. In the end, all experiments are wrong, but some are useful, and we need more of them.
 
-# The ethology and ethnography of stone toolmaking experiments
+# The ethology and ethnography of stone toolmaking
 
 As implied in its name, the implementation of Triple P framework involves the collection of process-level (ethological) and perception-level (ethnographic) data (**Figure** \@ref(fig:concept)). new toolkit such as BORIS were introduced [@friard2016]
 
@@ -53,7 +55,7 @@ We believe that contemporary practices in experimental archaeology, as manifeste
 
 It is more likely for them to come up with ideas that may not be optimal according to the principles of ergonomics. One such example is the the edge angle [@crabtree1977]
 
-Experimental archaeology as a scientific method is rooted in the individualistic reverse engineering in the 19th century instead of inter-generation transmission of knapping knowledge that spans several million years [@reevesflores2010; @coles1979; @johnson1978; @whittaker1994: 54-61].
+Experimental archaeology as a scientific method is rooted in the individualistic reverse engineering in the 19th century instead of inter-generation transmission of knapping knowledge that spans several million years [@flenniken1984; @reevesflores2010; @coles1979; @johnson1978; @whittaker1994: 54-61].
 
 # Many places, many voices
 
@@ -64,5 +66,9 @@ In addition to the difficulty in coordination and logistics, the facilitation of
 # Open science beyond reproducibility
 
 The last step is uploading the data to a open-access repository [@marwick2017]. The building of manufacture can cost [@simon2015; @gilmore2015].
+
+# Acknowledgements
+
+This study was supported by a research grant from the Leakey Foundation titled "Inferring skill reproduction from stone artifacts: A middle‐range approach" (C. L.).
 
 # References
