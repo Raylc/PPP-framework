@@ -29,7 +29,7 @@ This paper presents the Perception-Process-Product (hereinafter referred to as "
 
 # What good is actualistic experiment?
 
-Traditionally, experimental archaeology focuses on generating knowledge regarding the causal mechanism at behavioral level to explain the variation of material culture [@eren2016; @lin2018; @rezek2020; @outram2008]. The controlled experiments conducted on stone artifacts [@li2022], partcularly those regarding the fracture mechanics [@cotterell1992], provide some foundational and irreplaceable insights regarding our understanding of the role of lithic technology in prehistory, and unequivocally this line of inquiry should be celebrated and promoted to carry on. Nonetheless, it is oftentimes challenging to directly translate these experimental results into implications of human behaviors due to the messiness of the latter. In the past decades, actualistic experiments becomes more common [@liu2022]. Is RCT the golden standard of knowledge [@cartwright2007]
+Traditionally, experimental archaeology focuses on generating knowledge regarding the causal mechanism at behavioral level to explain the variation of material culture [@eren2016; @lin2018; @rezek2020; @outram2008]. The controlled experiments conducted on stone artifacts [@li2022], particularly those regarding the fracture mechanics [@cotterell1992], provide some foundational and irreplaceable insights regarding our understanding of the role of lithic technology in prehistory, and unequivocally this line of inquiry should be celebrated and promoted to carry on. Nonetheless, it is oftentimes challenging to directly translate these experimental results into implications of human behaviors due to the messiness of the latter. In the past decades, actualistic experiments becomes more common [@liu2022]. Is RCT the golden standard of knowledge [@cartwright2007]
 
 the first two p captures different level of variation: EQUIFINALITY [@chami2015]. The process level can be dismantled into two parts: 1)the cognitive [@stout2015] and physical demands [@key2018] of certain tool-making behavior; 2) the ethological analysis.
 
@@ -39,7 +39,7 @@ Experimental archaeology is based on the concept of analogy (i.e., the past is a
 
 # The ethology and ethnography of stone toolmaking
 
-As implied in its name, the implementation of Triple P framework involves the collection of process-level (ethological) and perception-level (ethnographic) data (**Figure** \@ref(fig:concept)). new toolkit such as BORIS were introduced [@friard2016]
+As implied in its name, the implementation of Triple P framework involves the collection of process-level (ethological) and perception-level (ethnographic) data (**Figure** \@ref(fig:concept)). Ethological approaches are widly used in the description and analysis of non-human animal behavior [@fragaszy2018]. new toolkit such as BORIS were introduced [@friard2016]
 
 ```{r concept, echo=FALSE, out.width = '80%', fig.align='center', fig.cap="A schematic diagram demonstrating how to operationalize the Perception-Process-Product conceptual framework."}
 knitr::include_graphics(here::here("figure/Fig1.jpg"))
