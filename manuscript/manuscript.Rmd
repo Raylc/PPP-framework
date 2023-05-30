@@ -44,7 +44,8 @@ Experimental archaeology is based on the concept of analogy (i.e., the past is a
 
 # The ethology and ethnography of stone toolmaking
 
-As implied in its name, the implementation of Triple P framework involves the collection of process-level (ethological) and perception-level (ethnographic) data (**Figure** \@ref(fig:concept)), which is critical to address equifinality, one of daunting challenges faced in archaeological inference[@chami2015]. Equifinality refers to the phenomenon where a similar state or consequence can be achieved through multiple different paths.
+As implied in its name, the implementation of Triple P framework involves the collection of process-level (ethological) and perception-level (ethnographic) data (**Figure** \@ref(fig:concept)), which is critical to address equifinality and multifinality, one of daunting challenges faced in archaeological inference [@hiscock2004; @lake2014; @premoEquifinalityExplanationThoughts2010]. Equifinality refers to the phenomenon where a similar state or consequence can be achieved through multiple different paths, while multifinality emerges when a similar process can lead to multiple ends.
+
 Ethological approaches are widely used in the description and analysis of non-human animal behavior [@fragaszy2018]. new toolkit such as BORIS were introduced [@friard2016]
 
 ```{r concept, echo=FALSE, out.width = '80%', fig.align='center', fig.cap="A schematic diagram demonstrating how to operationalize the Perception-Process-Product conceptual framework."}
