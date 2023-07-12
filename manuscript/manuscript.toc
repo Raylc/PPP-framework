@@ -1,8 +1,10 @@
 \contentsline {section}{\numberline {1}What good is actualistic experiment?}{2}{section.1}%
-\contentsline {section}{\numberline {2}The ethology and ethnography of stone toolmaking}{4}{section.2}%
-\contentsline {section}{\numberline {3}The curse of knowledge}{7}{section.3}%
-\contentsline {section}{\numberline {4}Many places, many voices}{8}{section.4}%
-\contentsline {section}{\numberline {5}Open science beyond reproducibility}{9}{section.5}%
-\contentsline {section}{\numberline {6}Conclusion}{10}{section.6}%
-\contentsline {section}{\numberline {7}Acknowledgements}{11}{section.7}%
+\contentsline {section}{\numberline {2}Many places, many voices}{4}{section.2}%
+\contentsline {section}{\numberline {3}The Triple P framework in action}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Product-level data}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Process-level data}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Perception-level data}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Multi-level data curation}{10}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Conclusion}{10}{section.4}%
+\contentsline {section}{\numberline {5}Acknowledgements}{11}{section.5}%
 \contentsline {section}{References}{11}{section*.4}%
