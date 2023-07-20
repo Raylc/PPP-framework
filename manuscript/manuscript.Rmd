@@ -2,7 +2,12 @@
 title: "Expanding the scope of experimental archaeology using the Perception-Process-Product conceptual framework"
 author: 
 - Cheng Liu^[Department of Anthropology, Emory University, Atlanta, GA, USA; raylc1996@outlook.com]
-abstract: "This paper presents the outline of the Perception-Process-Product ('Triple P') conceptual framework that aims to expand the scope of experimental archaeology. The Triple P framework emphasizes the amplification of multi-level variabilty and the identification of causal relationships of variations across the levels of perception, process, and product. Here I propose the following five basic measures to put the Triple P framework into practice: 1) acknowledging the contribution and limitations of actualistic experiments properly; 2) encouraging collaborative projects that involves geographically diverse and non-traditional research participants such as hobbyists and novices; 3) adopting a workflow that normalize the collection and curation of ethological and ethnographic data in experimental projects. \\par \\textbf{Keywords:} Experimental archaeology; Ethological analysis; Ethnographical analysis; The curse of knowledge; Collaborative knowledge production"
+abstract: |
+  ```{=latex}
+  This paper presents the outline of the Perception-Process-Product ('Triple P') conceptual framework that aims to expand the scope of experimental archaeology. The Triple P framework emphasizes the amplification of multi-level variabilty and the identification of causal relationships of variations across the levels of perception, process, and product. Here I propose the following five basic measures to put the Triple P framework into practice: 1) acknowledging the contribution and limitations of actualistic experiments properly; 2) encouraging collaborative projects that involves geographically diverse and non-traditional research participants such as hobbyists and novices; 3) adopting a workflow that normalize the collection and curation of ethological and ethnographic data in experimental projects.
+
+  \textbf{Keywords:} Experimental archaeology; Ethological analysis; Ethnographical analysis; The curse of knowledge; Collaborative knowledge production
+  ```
 date: "`r Sys.Date()`"
 fontsize: 11pt
 output: bookdown::pdf_document2
@@ -11,7 +16,6 @@ header-includes:
    - \usepackage{utopia}
    - \usepackage{lineno}
    - \linenumbers
-   - \usepackage[draft]{hyperref}
    - \usepackage{float}
    - \floatplacement{figure}{H}
    - \usepackage{caption}
@@ -24,7 +28,7 @@ bibliography: bibliography.bib
 csl: apa.csl
 ---
 
-\vspace{12pt}
+# Introduction
 
 This paper presents the Perception-Process-Product (hereinafter referred to as "Triple P") conceptual framework to expand the scope of experimental archaeology, which tends to center around the reverse engineering of a past technology in a minimal or least-effort manner while ignoring the rich contextual information it affords. Built upon early intellectual principles and practices in behavioral archaeology [@schiffer2010], the Triple P framework aims to **a)** amplify the expression of variability in experimental replicas (product) and their associated behavioral channels (process) as well as sensory experiences (perception) and **b)** better identify the complex interacting relationships across these three levels of variations. To accomplish these two objectives, I advocate the following three measures as integral components of the Triple P framework: 1) acknowledging the contribution and limitations of actualistic experiments properly; 2) encouraging collaborative projects that involves geographically diverse and non-traditional research participants such as hobbyists and novices; 3) adopting a workflow that normalize the collection and curation of ethological and ethnographic data in experimental projects. It is no doubt that strategies of data collection and analysis of a given experimental project should be primarily derived from the research question, which can be legitimately narrow in scope, but the awareness of the rich toolkit available can sometimes inspire researchers to ask questions that are bold and transformative [@schmidt2020]. Here I will mainly leverage the extensive corpus in experimental designs and inferences revolving around stone artifacts to clarify its meaning and demonstrate the necessity and potential of this framework.
 
