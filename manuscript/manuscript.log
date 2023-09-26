@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  17 SEP 2023 00:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  25 SEP 2023 22:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -716,7 +716,7 @@ Package pdftex.def Info: C:/FilesVC/PPP-framework/figure/Fig1.jpg  used on inpu
 t line 180.
 (pdftex.def)             Requested size: 375.79735pt x 216.14488pt.
 [6] [7 <c:/FilesVC/PPP-framework/figure/Fig1.jpg>]
-<C:/FilesVC/PPP-framework/figure/Fig2.jpg, id=215, 329.5512pt x 204.2832pt>
+<C:/FilesVC/PPP-framework/figure/Fig2.jpg, id=213, 329.5512pt x 204.2832pt>
 File: C:/FilesVC/PPP-framework/figure/Fig2.jpg Graphic file (type jpg)
 <use C:/FilesVC/PPP-framework/figure/Fig2.jpg>
 Package pdftex.def Info: C:/FilesVC/PPP-framework/figure/Fig2.jpg  used on inpu
@@ -737,13 +737,13 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 487.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 487.
  ) 
 Here is how much of TeX's memory you used:
- 16727 strings out of 492162
- 244540 string characters out of 6129062
- 394937 words of memory out of 5000000
+ 16739 strings out of 492162
+ 244643 string characters out of 6129062
+ 395936 words of memory out of 5000000
  20412 multiletter control sequences out of 15000+600000
- 142194 words of font info for 227 fonts, out of 8000000 for 9000
+ 143478 words of font info for 235 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,12n,49p,2799b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,49p,2883b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2019/texm
 f-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2019/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfon
@@ -751,10 +751,10 @@ ts/cm/cmsy8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:
 /texlive/2019/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2019/t
 exmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/texlive/2019/texmf-dist/fonts
 /type1/adobe/utopia/putri8a.pfb>
-Output written on manuscript.pdf (17 pages, 749200 bytes).
+Output written on manuscript.pdf (17 pages, 749434 bytes).
 PDF statistics:
- 488 PDF objects out of 1000 (max. 8388607)
- 455 compressed objects within 5 object streams
+ 486 PDF objects out of 1000 (max. 8388607)
+ 453 compressed objects within 5 object streams
  118 named destinations out of 1000 (max. 500000)
  20579 words of extra memory for PDF output out of 20736 (max. 10000000)
 
