@@ -1,11 +1,11 @@
 \contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
-\contentsline {section}{\numberline {2}What good is naturalistic experimentation?}{3}{section.2}%
-\contentsline {section}{\numberline {3}Many places, many voices}{4}{section.3}%
-\contentsline {section}{\numberline {4}The Triple P framework in action}{6}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Product-level data}{7}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Process-level data}{7}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Perception-level data}{9}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Multi-level data curation}{10}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Conclusion}{10}{section.5}%
-\contentsline {section}{\numberline {6}Acknowledgements}{10}{section.6}%
-\contentsline {section}{References}{11}{section*.4}%
+\contentsline {section}{\numberline {2}What good is naturalistic experimentation?}{4}{section.2}%
+\contentsline {section}{\numberline {3}Many places, many voices}{5}{section.3}%
+\contentsline {section}{\numberline {4}The Triple P framework in action}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Product-level data}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Process-level data}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Perception-level data}{10}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Multi-level data curation}{11}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Conclusion}{12}{section.5}%
+\contentsline {section}{\numberline {6}Acknowledgements}{13}{section.6}%
+\contentsline {section}{References}{13}{section*.4}%
