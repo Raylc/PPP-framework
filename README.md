@@ -1,2 +1,2 @@
 # PPP-framework
-Expanding the scope of experimental archaeology using the Perception-Process-Product conceptual framework
+Variation matters: Expanding the scope of experimental archaeology， Accepted by Advances in Archaeological Practice
